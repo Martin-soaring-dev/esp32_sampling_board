@@ -1,5 +1,7 @@
 # esp32_sampling_board
 
+**原文连接**：[Martin-soaring-dev/esp32_sampling_board](https://github.com/Martin-soaring-dev/esp32_sampling_board)
+
 ## 1. Get start
 
 ### (1) 工具准备
