@@ -6,7 +6,7 @@
 
 ### (1) 工具准备
 
-- 可以从这里[^1]获取ESP32的下载工具。在frimware中我也添加了该工具。
+- 可以从这里[^1]获取ESP32的下载工具。在/frimware/tool路径下也添加了该工具。
 - 安装上位机<**SensorSamplingBoard_web.exe**>。
 
 ### (2) 下载firmware
